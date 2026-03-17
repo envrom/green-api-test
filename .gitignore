@@ -1,0 +1,14 @@
+node_modules/
+dist/
+coverage/
+
+# Real credentials — never commit
+.env
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.log
+.claude/
